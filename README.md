@@ -1,5 +1,5 @@
-# cs224N_final_project
-final project for cs224N
+# cs580_final_project
+final project for CS580 - Purdue University
 
 Breakdown of files:
 
